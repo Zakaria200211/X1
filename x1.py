@@ -40,7 +40,7 @@ def dan(y=0,m=0,d=0):
      if date.month <= m:
       if date.day < d:
        return True
-x = dan(20234,11,22)
+x = dan(2024,11,22)
      
 if x:pass
 else:quit(' تم ايقاف الاداه بواسطه الجلاد حاكم الهكسوس اذاا تريد تحديثها اذهب للاشتراك من الجلاد @KY_112 !!!')
